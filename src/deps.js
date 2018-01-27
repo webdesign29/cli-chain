@@ -100,6 +100,7 @@ function prettydate(date) {
 module.exports = {
   doesInclude,
   // flipcache,
+  inspectorGadget,
   Script,
   orderByKeys,
   ChainedMap,
