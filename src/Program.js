@@ -63,7 +63,7 @@ class Program extends ChainedMap {
 
     // --- vorpal instance
 
-    this.delimiter = (delimiter = '🏗  fliphub ➜') => {
+    this.delimiter = (delimiter = ' wd29 ➜') => {
       this.vorpal.delimiter(delimiter)
       return this
     }
