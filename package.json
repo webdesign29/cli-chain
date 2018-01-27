@@ -17,7 +17,11 @@
     "rx": "^4.1.0",
     "flipcache": "*"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "ava": "^0.19.0",
+    "fosho": "*",
+    "fluent-skeleton": "*"
+  },
   "dependencies": {
     "execa": "^0.6.3",
     "configstore": "*",
