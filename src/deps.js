@@ -1,7 +1,7 @@
 const toarr = require('to-arr')
 const log = require('fliplog')
 const inquirer = require('inquirer')
-const inspectorGadget = require('inspector-gadget')
+const { inspectorGadget } = require('inspector-gadget')
 const Vorpal = require('vorpal')
 const ChainedMapExtendable = require('flipchain/ChainedMapExtendable')
 const ChainedSets = require('flipchain/ChainedSet')
