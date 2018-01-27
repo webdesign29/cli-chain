@@ -32,7 +32,7 @@
     "fliplog": "*",
     "script-chain": "*",
     "inquirer": "^3.0.6",
-    "inspector-gadget": "*",
+    "inspector-gadget": "^1.0.0",
     "lodash.sortby": "^4.7.0",
     "to-arr": "*",
     "arr-to-obj": "*",
