@@ -54,14 +54,5 @@
     "webpack-chain",
     "flipchain"
   ],
-  "license": "MIT",
-  "author": "James <aretecode@gmail.com>",
-  "homepage": "https://github.com/fliphub/fliphub#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fliphub/fliphub.git"
-  },
-  "bugs": {
-    "url": "https://github.com/fliphub/fliphub/issues"
-  }
+  "license": "MIT"
 }
