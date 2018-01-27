@@ -36,5 +36,9 @@
     "does-include": "*"
   },
   "keywords": [],
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webdesign29/fliphub.git"
+  },
 }
